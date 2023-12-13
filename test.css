@@ -1,0 +1,207 @@
+/*container1*/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    padding: 20px;
+}
+
+
+
+
+.para {
+    margin-left: 30px;
+}
+
+#btn-1 {
+    margin-left: 30px;
+}
+
+h1,
+p {
+    color: white;
+    justify-content: center;
+}
+
+.pic img {
+    margin-left: 30px;
+}
+
+/* ---------------------------------- */
+
+/* container 2 */
+
+.image {
+    margin-left: 30px;
+}
+
+p {
+    text-align: justify;
+}
+
+.paragraph {
+    margin-left: 30px;
+}
+
+#btn-2 {
+    margin-left: 30px;
+}
+
+body {
+    background-image: url(https://img.freepik.com/free-vector/black-background-with-focus-spot-light_1017-27230.jpg?w=996&t=st=1665050648~exp=1665051248~hmac=a5688cf03cbde63288b0891f1b94b1076467754ef66615a429f9b407bf650b61);
+    background-size: cover;
+}
+
+/* ---------------------------------------- */
+
+
+
+/*content-3 css  */
+.card-1 {
+
+    border-radius: 20px !important;
+}
+
+.card img {
+    width: 100px;
+    height: 100px;
+
+}
+
+.cardno-1 {
+    color: #f46f30;
+}
+
+
+
+/* ---------------------------------------------- */
+
+
+
+/* content-4 css */
+.card-content h5 {
+    color: black !important;
+    text-align: center;
+    width: auto;
+
+}
+
+.first-1 {
+    width: 550px !important;
+    text-align: center;
+    height: 595px;
+    border-radius: 30px !important;
+
+}
+
+.card-items h5 {
+    margin: 100px 25px 0px 2px;
+    font-size: 30px;
+
+}
+
+/* button */
+
+.button {
+    border-radius: 20px !important;
+
+}
+
+.btn {
+    margin-top: 10px;
+    text-align: center !important;
+}
+
+/* ----------------------------------- */
+
+/* right a1 */
+
+.card-a1 {
+    border-radius: 30px !important;
+}
+
+.second-card img {
+    width: 210px;
+    height: 200px;
+
+}
+
+@media only screen and (max-width: 600px) {
+
+    .card.card-a1 {
+        margin: auto;
+        width: 0px;
+        height: auto;
+        align-items: center;
+    }
+
+    .card.card-a1 img {
+        margin: auto;
+    }
+
+    .a2-card {
+        margin-bottom: 100px;
+    }
+
+}
+
+
+/* ---------------------------------------------- */
+
+/* right a2 */
+.card-a2 {
+    border-radius: 30px !important;
+}
+
+.third-card h2 {
+    text-decoration: underline !important;
+}
+
+/* ----------------------------------------------*/
+
+/* rightb1 */
+.fourth-card h2 {
+    text-decoration: underline;
+
+
+}
+
+/* card-b1  */
+.card-b1 {
+    margin-top: -80px;
+    border-radius: 30px !important;
+}
+
+/* -------------------------------------------------- */
+
+/* right-b2 */
+.card-b2 {
+    margin-top: 20px;
+    border-radius: 30px !important;
+}
+
+.fivth-card img {
+    width: 210px;
+    height: 200px;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .card-b2 {
+        margin: auto;
+        width: 0px;
+        height: auto;
+        align-items: center;
+    }
+
+    .card-b2 img {
+        margin: auto;
+    }
+}
+
+.col-lg-4.col-sm-12 {
+    padding-top: 20px;
+}
